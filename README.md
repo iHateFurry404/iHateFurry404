@@ -1,6 +1,6 @@
 # iHateFurry입니다
 
-> 학원 50%, 독학 50%인 사람입니다. 
+> 학원 75%, 독학 25%인 사람입니다. 
 
 [![나의 머찐 Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ihatefurry)](https://solved.ac/ihatefurry)
 
