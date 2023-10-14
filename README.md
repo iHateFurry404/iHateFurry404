@@ -1,4 +1,4 @@
-# iHateFurry입니다
+# iHateFurry404입니다
 
 > 학원 75%, 독학 25%인 사람입니다. 
 
